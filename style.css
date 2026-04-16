@@ -1,3 +1,8 @@
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 /* Change background color */
 body {
   background-color: #e8eaee;

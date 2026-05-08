@@ -1,46 +1,30 @@
-header {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-/* Change background color */
 body {
-  background-color: #e8eaee;
-  margin: 20px;
-  font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-/* Style header */
-h1 {
-   color: #6c986f; /* muted green */
-  font-family: Arial, Helvetica, sans-serif;
-}
-h2 {
-  color: #8baf89; /* soft green */
+header {
+    background-color: #1f4e79;
+    color: white;
+    padding: 15px;
 }
 
-
-/* Style paragraphs */
-p {
-  color: #333333;
-  font-family: Georgia, serif;
-  line-height: 1.6;
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
 }
 
-/* Add spacing */
 section {
-   background-color: #dadcd6; /* light gray */
-  margin-bottom: 20px;
-  padding: 10px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
 }
 
-
-/* The new div rule */
-div {
-  width: 300px;
-  height: 100px;
-  background-color: #aec6a5; 
-  border: 2px solid #6c986f;
-  padding: 15px;
-  margin: 20px 0;
+footer {
+    margin-top: 20px;
+    text-align: center;
 }
